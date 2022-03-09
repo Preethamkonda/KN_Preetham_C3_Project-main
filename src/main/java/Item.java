@@ -17,4 +17,7 @@ public class Item {
                 + "\n"
                 ;
     }
+    public double getPrice() {
+        return this.price;
+    }
 }
